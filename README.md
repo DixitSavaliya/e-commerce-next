@@ -25,5 +25,4 @@ This is a sample e-commerce application built with Next.js, showcasing an invent
 
 1. Clone this repository:
 
-   ```bash
-   git clone https://github.com/DixitSavaliya/e-commerce.git
+   git clone git remote add origin https://github.com/DixitSavaliya/e-commerce-next.git
